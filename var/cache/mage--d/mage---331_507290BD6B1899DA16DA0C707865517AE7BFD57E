@@ -1,0 +1,105 @@
+
+    
+            <div class="the-slideshow-wrapper-outer" >
+    
+            <div class="the-slideshow-wrapper">
+
+                <div class="the-slideshow grid12-9 no-left-gutter   slider-arrows2 slider-pagination2 pagination-pos-over-bottom-centered">
+                    <div id="slideshow-f06bf8c50e4938e8d3b5d6e4466074f8" class="slides">
+                                                                        <div class="item slide">
+                                <a href="http://rockymountainoverstock.com/index.php/about-magento-demo-store/?___SID=U">
+
+	<img src="http://rockymountainoverstock.com/media/wysiwyg/infortis/ultimo/slideshow/01.jpg" alt="Sample slide" />
+
+		<div class="caption light1 top-right">
+			<h2 class="heading permanent">Customizable Theme</h2>
+			<p>You can change colors of almost every element</p>
+			<p>You have never seen so many options</p>
+		</div>
+
+</a>                            </div>
+                                                                                                <div class="item slide">
+                                <a href="http://rockymountainoverstock.com/index.php/about-magento-demo-store/?___SID=U">
+
+	<img src="http://rockymountainoverstock.com/media/wysiwyg/infortis/ultimo/slideshow/02.jpg" alt="Sample slide" />
+
+		<div class="caption dark2">
+			<h2 class="heading permanent">Responsive</h2>
+			<p class="permanent">This theme can adapt to any mobile screen resolution</p>
+		</div>
+
+</a>                            </div>
+                                                                                                <div class="item slide">
+                                <a href="http://rockymountainoverstock.com/index.php/about-magento-demo-store/?___SID=U">
+
+	<img src="http://rockymountainoverstock.com/media/wysiwyg/infortis/ultimo/slideshow/03.jpg" alt="Sample slide" />
+
+	<a class="caption dark feature-icon-hover" href="http://rockymountainoverstock.com/index.php/ultimo-responsive-magento-theme/?___SID=U" title="Click to see more">
+		<h2 class="heading permanent" style="color: #fff;">Super Promo</h2>
+		<p style="color: #fff;">Click to see more details</p>
+	</a>
+
+</a>                            </div>
+                                                                </div> <!-- end: slides -->
+                </div> <!-- end: the-slideshow -->
+
+                                                        <div class="the-slideshow-banners slideshow-banners grid12-3 no-right-gutter hide-below-768"><a class="banner fade-on-hover" href="http://rockymountainoverstock.com/index.php/about-magento-demo-store/?___SID=U">
+	<img src="http://rockymountainoverstock.com/media/wysiwyg/infortis/ultimo/slideshow/banner/01.png" alt="Sample banner" />
+
+	<div class="caption light1 full-width right">
+		<p class="right">Sample caption</p>
+	</div>
+
+</a>
+
+<a class="banner fade-on-hover" href="http://rockymountainoverstock.com/index.php/about-magento-demo-store/?___SID=U">
+	<img src="http://rockymountainoverstock.com/media/wysiwyg/infortis/ultimo/slideshow/banner/02.png" alt="Sample banner" />
+
+	<div class="caption dark1 full-width right">
+		<p class="right">Add custom text</p>
+	</div>
+
+</a>
+
+<a class="banner fade-on-hover" href="http://rockymountainoverstock.com/index.php/about-magento-demo-store/?___SID=U">
+	<img src="http://rockymountainoverstock.com/media/wysiwyg/infortis/ultimo/slideshow/banner/03.png" alt="Sample banner" />
+
+	<div class="caption dark3 full-width right">
+		<p class="right">Caption sample</p>
+	</div>
+</a></div>
+                
+            </div> <!-- end: the-slideshow-wrapper -->
+
+            </div> <!-- end: the-slideshow-wrapper-outer -->
+    
+<script type="text/javascript">
+//<![CDATA[
+    jQuery(function($) {
+        
+        var owl = $('#slideshow-f06bf8c50e4938e8d3b5d6e4466074f8');
+        owl.owlCarousel({
+
+            singleItem: true,
+
+                    slideSpeed: 200,
+        
+                    paginationSpeed: 500,
+        
+                    autoPlay: 10000,
+        
+                    stopOnHover: true,
+        
+                    rewindNav: true,
+            rewindSpeed: 600,
+        
+                    autoHeight: true,
+        
+        
+            navigation: true
+
+        }); //end: owl
+
+    });
+//]]>
+</script>

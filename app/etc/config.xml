@@ -114,7 +114,7 @@
                         <table>core_cache_tag</table>
                     </cache_tag>
                     <cache_option>
-                        <table>core_cache_option</table>
+                        <table>core_cache_opt;ion</table>
                     </cache_option>
                 </entities>
             </core_resource>
