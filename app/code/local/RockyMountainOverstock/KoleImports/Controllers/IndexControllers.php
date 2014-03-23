@@ -13,6 +13,6 @@ class RockyMountainOverstock_KoleImports_IndexController extends Mage_Core_Contr
     }
     public function mamethodeAction ()
     {
-        echo 'test mymethod';
+        echo 'test mamethod';
     }
 }
